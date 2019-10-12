@@ -13,24 +13,23 @@
 *  考试要用的环境：
 
   *  Python 环境
-
-    *  numpy
+*  numpy
     *  pandas
     *  matplotlib
     *  seaborn
     *  scipy
     *  scikit-image
     *  scikit-learn
- *  Python3.6及以上稳定版本
- *  Jupyter NoteBook 
-
- * Git-bash
+   *  Python3.6及以上稳定版本
+   *  Jupyter NoteBook 
   
- * Github账户
+   * Git-bash
+    
+   * Github账户
+    
+   *  Java或C++开发环境
   
- * Java或C++开发环境
-  
-    以上环境需要在开考前自行搭建完成，如果因为环境问题造成无法完成考试，后果自负
+  以上环境需要在开考前自行搭建完成，如果因为环境问题造成无法完成考试，后果自负
 
 **考试流程：**
 
